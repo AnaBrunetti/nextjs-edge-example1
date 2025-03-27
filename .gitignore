@@ -38,3 +38,6 @@ next-env.d.ts
 /azion/
 
 .vscode
+#Paths added by Azion CLI
+.edge/
+.vulcan
